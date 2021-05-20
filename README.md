@@ -8,3 +8,6 @@ Note: The series of tutorials in every individual chapter of this course are sup
 
 **Chapter 1: Introduction to Python Programming**
 1. We talk about python, data types, inheritence and basics.
+Link to Tutorial Article: 
+
+
